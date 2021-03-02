@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+letters_tree.py
+main.py
+text.txt
+venv/
+data_tree.pkl
